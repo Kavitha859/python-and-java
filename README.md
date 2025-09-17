@@ -1,2 +1,2 @@
 # python-and-java
-this is the starting of my coding part
+This repository contains two small projects, one in Python and one in Java, showcasing beginner-friendly programming concepts.
